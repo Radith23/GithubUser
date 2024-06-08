@@ -13,3 +13,8 @@ GitHub User is an Android app that lets you search for GitHub profiles using the
 4. **Theme Management** : GitHub User integrates DataStore to handle theme management and switching. DataStore offers a reliable solution for storing key-value pairs or typed objects, ensuring that theme preferences are stored securely and applied consistently.
 ## Screenshots
 ### Light Theme
+<p align="left">
+  <img width="230" height="500" src="movieMania-splash.png">
+  <img width="230" height="500" src="movieMania-main.png">
+  <img width="230" height="500" src="movieMania-detail.png">
+</p>
