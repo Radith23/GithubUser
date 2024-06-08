@@ -14,15 +14,15 @@ GitHub User is an Android app that lets you search for GitHub profiles using the
 ## Screenshots
 ### Light Theme
 <p align="left">
-  <img width="200" height="420" src="splash-screen.png">
-  <img width="200" height="420" src="main-light.png">
-  <img width="200" height="420" src="detail-light.png">
-  <img width="200" height="420" src="fav-light.png">
+  <img width="200" height="430" src="splash-screen.png">
+  <img width="200" height="430" src="main-light.png">
+  <img width="200" height="430" src="detail-light.png">
+  <img width="200" height="430" src="fav-light.png">
 </p>
 
 ### Dark Theme
 <p align="left">
-  <img width="180" height="450" src="main-dark.png">
-  <img width="180" height="450" src="detail-dark.png">
-  <img width="180" height="450" src="fav-dark.png">
+  <img width="200" height="430" src="main-dark.png">
+  <img width="200" height="430" src="detail-dark.png">
+  <img width="200" height="430" src="fav-dark.png">
 </p>
